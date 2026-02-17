@@ -16,8 +16,9 @@ authors:
 - family-names: "Blaszczak-Boxe"
   given-names: "Christopher"
   orcid: "https://orcid.org/0000-0002-5288-961X"
-title:AstroJosePC/2d-dsmc-wave-analysis: Release for Zenodo Snapshot
+title:"AstroJosePC/2d-dsmc-wave-analysis: Release for Zenodo Snapshot"
 version: v1.0.1
 date-released: 2026-02-17
 doi: 10.5281/zenodo.18667659
 url: "https://github.com/AstroJosePC/2d-dsmc-wave-analysis"
+
