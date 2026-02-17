@@ -3,19 +3,19 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Perez Chavez"
   given-names: "Jose A."
-  orcid: https://orcid.org/0000-0002-7407-5297
+  orcid: "https://orcid.org/0000-0002-7407-5297"
 - family-names: "Tucker"
   given-names: "Orenthal J."
-  orcid: https://orcid.org/0000-0002-8235-5440
+  orcid: "https://orcid.org/0000-0002-8235-5440"
 - family-names: "Carberry Mogan"
   given-names: "Shane R."
-  orcid: https://orcid.org/0000-0002-0261-8117
+  orcid: "https://orcid.org/0000-0002-0261-8117"
 - family-names: "Johnson"
   given-names: "Robert E."
-  orcid: https://orcid.org/0000-0001-7798-5918
+  orcid: "https://orcid.org/0000-0001-7798-5918"
 - family-names: "Blaszczak-Boxe"
   given-names: "Christopher"
-  orcid: https://orcid.org/0000-0002-5288-961X
+  orcid: "https://orcid.org/0000-0002-5288-961X"
 title:AstroJosePC/2d-dsmc-wave-analysis: Release for Zenodo Snapshot
 version: v1.0.1
 date-released: 2026-02-17
