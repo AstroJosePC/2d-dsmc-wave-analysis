@@ -9,7 +9,7 @@ authors:
   orcid: https://orcid.org/0000-0002-8235-5440
 - family-names: Carberry Mogan
   given-names: Shane
-orcid: https://orcid.org/0000-0002-0261-8117
+  orcid: https://orcid.org/0000-0002-0261-8117
 - family-names: Johnson
   given-names: Robert
   orcid: https://orcid.org/0000-0001-7798-5918
@@ -21,4 +21,5 @@ version: v1.0.1
 date-released: 2026-02-17
 doi: 10.5281/zenodo.18667659
 url: "https://github.com/AstroJosePC/2d-dsmc-wave-analysis"
+
 
